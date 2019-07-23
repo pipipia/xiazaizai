@@ -489,7 +489,7 @@ p.home-price i {position:absolute;font-size:16px;left:60px;top:10px;}
 .sign-submit{margin-bottom: 20px;}
 .modal .sign-form .sign-qq{margin-bottom:0}
 .sign-form .sign-qq{display: block;padding: 10px;text-align: center;margin-bottom: 20px;}
-.sign-form .sign-qq a{position: relative; text-align: center; border-radius: 50%; background-image: url(//xiazaizai.com/img/qqicon.png); width: 42px; height: 42px; display: block; background-size: cover; margin:0 auto;}
+.sign-form .sign-qq a{position: relative; text-align: center; border-radius: 50%; background-image: url(//cdn.jsdelivr.net/gh/pipipia/xiazaizai@1.01/img/qqicon.png); width: 42px; height: 42px; display: block; background-size: cover; margin:0 auto;}
 .sign-form .sign-qq a:hover{opacity:.6;}
 .sign-tips,.sign-tips-show{position: absolute; top: 0; background-color: #e8604e; left: 0; right: 0; height: 0; line-height: 60px; padding: 0 50px; color: #fff; font-size: 14px; overflow: hidden; text-align: center; z-index: 1;}
 .sign-tips-show{display: block}
