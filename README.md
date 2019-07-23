@@ -1,2 +1,2 @@
 # xiazaizai
-xiazaizai.com
+xiazaizai.com static files
